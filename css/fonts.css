@@ -1,0 +1,7 @@
+
+@font-face{
+    font-family: 'Gly';
+    src: url('../font/Glysa-Medium.woff') format('woff');
+    src: url('../font/Glysa-Medium.woff2') format('woff2');
+    display: fallback;
+}
